@@ -11,5 +11,5 @@ More information about the evant on [our websitte](https://sites.google.com/view
 
 Video recording of different sessions on [YouTube](https://www.youtube.com/playlist?list=PLbpn0EkAHGYwEinEq484gYg89st-8Autt).
 
-Uncertainty in MIA Cookbook on [GitHuB](https://github.com/NataliiaMolch/uq-mia-cookbook).
+Uncertainty in MIA Cookbook on [GitHub](https://github.com/NataliiaMolch/uq-mia-cookbook).
 
