@@ -10,7 +10,7 @@ __pycache__
 
 *.tar.gz
 *.zip
-*.pth
+#*.pth
 *.pt
 *.npy
 *.npz
